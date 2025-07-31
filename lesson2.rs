@@ -12,5 +12,4 @@ fn main() {
 
     let name = String::from("Horry");
     println!("Player: {}", name);
-
 }
