@@ -1,10 +1,9 @@
-# Мой Проект на Rust
+## Rust project
+## Here you will find mini projects I am creating while learning the Rust programming language.
 
-Это простой проект на Rust.
+## Install
+- Clone rep.: `git clone https://github.com/your-username/my-project-rust.git`
+- Build: `cargo build`
 
-## Установка
-- Клонируй репозиторий: `git clone https://github.com/твой-username/мой-проект-rust.git`
-- Собери: `cargo build`
-
-## Запуск
+## Start
 `cargo run`
